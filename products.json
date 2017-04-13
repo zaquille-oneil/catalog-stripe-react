@@ -1,0 +1,30 @@
+[
+   {
+       "id": 1,
+       "name": "Millennium Falcon",
+       "price": 400,
+       "description": "She may not look like much, but she's got it where it counts - Han Solo",
+       "image": "http://swdestinydb.com/bundles/cards/en/01/01049.jpg"
+   },
+   {
+       "id": 2,
+       "name": "Slave 1",
+       "price": 650,
+       "description": "Originally intended as a prisoner transport, the Firespray patrol craft features a versatile weapons array and heavy armor plating.",
+       "image": "http://swdestinydb.com/bundles/cards/en/01/01021.jpg"
+   },
+   {
+       "id": 3,
+       "name": "Black One",
+       "price": 450,
+       "description": "The modern incarnation of a classic design, the Incom T-70 X-wing fighter is the signature combat craft of the Resistance forces in their fight against the First Order.",
+       "image": "http://swdestinydb.com/bundles/cards/en/01/01032.jpg"
+   },
+   {
+       "id": 4,
+       "name": "First Order TIE fighter",
+       "price": 400,
+       "description": "They're flying state-of-the-art TIEs, they're using commando boarding parties and latest generation attack shuttles in clear violation of the Galactic Concordance. ―Poe Dameron",
+       "image": "http://swdestinydb.com/bundles/cards/en/01/01006.jpg"
+   }
+]
